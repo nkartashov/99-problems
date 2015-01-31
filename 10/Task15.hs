@@ -1,0 +1,1 @@
+dupli = flip $ concatMap . replicate
